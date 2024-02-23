@@ -1,6 +1,9 @@
+"""
+Image augmentation to mitigate unbalanced dataset.
+"""
+
 import cv2
 import numpy as np
-import os
 
 
 def image_augmentation(name: int):
@@ -21,5 +24,4 @@ def image_augmentation(name: int):
     cv2.imwrite(f"{name}_blurred.jpg", more_blurred)
 
 
-# Usage example
 image_augmentation(1000)
