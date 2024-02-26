@@ -43,15 +43,15 @@ model.eval()
 # Store predictions
 predictions = []
 for image_path in test_image_paths:
-    image_id = os.path.basename(image_path)  # Extract file ID
+    image_id = os.path.basename(image_path).split(".")[0]
     image = Image.open(image_path).convert("RGB")
-    image = transform(image).unsqueeze(0)  # Add batch dimension
+    image = transform(image).unsqueeze(0)
     image = image.to(device)
     output = model(image)
     threshold = 0.5
     predicted = (output >= threshold).int().item()
     predictions.append({"ID": image_id, "TARGET": predicted})
-
+    print(f"Image:{image_id}\tOutput:{float(output):.2f}\tPrediction:{predicted}")
 
 # Create a DataFrame from predictions and save it to file
 df = pd.DataFrame(predictions)
