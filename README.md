@@ -1,6 +1,10 @@
 ## Novo Nordisk Hackathon - Settlers of Agar
 ![preprocessing|500](preprocessing.png)
 
+### Tasks
+1. [Classification](https://www.kaggle.com/competitions/agarvision-task-1-classification/)
+2. [Counting](https://www.kaggle.com/competitions/agarvision-Task2-Counting)
+
 ### Image preprocessing ideas
 - Convert image to grayscale and increase contrast to make bacteria colonies more visible.
 - Remove the timestamp visible on the petri dish so that the model doesn't learn the noise. (It turned out that it is hard to automate that for different lighting setups)
@@ -26,3 +30,4 @@
 - Finding the research paper that doesn't focus on the architecture.
 - Not using [Papers with Code](https://paperswithcode.com/sota).
 - Focusing too mouch on the data preprocessing.
+
