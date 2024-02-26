@@ -29,5 +29,5 @@
 - Not setting the threshold for binary classification based on the recall plot.
 - Finding the research paper that doesn't focus on the architecture.
 - Not using [Papers with Code](https://paperswithcode.com/sota).
-- Focusing too mouch on the data preprocessing.
+- Focusing too much on the data preprocessing.
 
