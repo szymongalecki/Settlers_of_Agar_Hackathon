@@ -1,0 +1,42 @@
+{
+    "background": "lower-resolution",
+    "classes": [
+        "C.albicans"
+    ],
+    "colonies_number": 2,
+    "labels": [
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 1,
+            "width": 45,
+            "x": 868,
+            "y": 1859
+        },
+        {
+            "class": "C.albicans",
+            "height": 28,
+            "id": 2,
+            "width": 28,
+            "x": 1235,
+            "y": 1887
+        },
+        {
+            "class": "Defect",
+            "height": 166,
+            "id": 3,
+            "width": 166,
+            "x": 472,
+            "y": 1218
+        },
+        {
+            "class": "Defect",
+            "height": 244,
+            "id": 4,
+            "width": 244,
+            "x": 793,
+            "y": 947
+        }
+    ],
+    "sample_id": 16024
+}

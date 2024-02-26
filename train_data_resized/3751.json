@@ -1,0 +1,27 @@
+{
+    "background": "dark",
+    "classes": [
+        "P.aeruginosa",
+        "S.aureus"
+    ],
+    "colonies_number": 2,
+    "labels": [
+        {
+            "class": "S.aureus",
+            "height": 39,
+            "id": 1,
+            "width": 39,
+            "x": 2268,
+            "y": 1537
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 60,
+            "id": 2,
+            "width": 60,
+            "x": 2720,
+            "y": 2209
+        }
+    ],
+    "sample_id": 3751
+}

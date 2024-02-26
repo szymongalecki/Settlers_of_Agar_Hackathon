@@ -1,0 +1,26 @@
+{
+    "background": "lower-resolution",
+    "classes": [
+        "P.aeruginosa"
+    ],
+    "colonies_number": 2,
+    "labels": [
+        {
+            "class": "P.aeruginosa",
+            "height": 171,
+            "id": 1,
+            "width": 171,
+            "x": 1563,
+            "y": 868
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 128,
+            "id": 2,
+            "width": 128,
+            "x": 1298,
+            "y": 1326
+        }
+    ],
+    "sample_id": 13171
+}

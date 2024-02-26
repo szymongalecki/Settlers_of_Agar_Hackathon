@@ -1,0 +1,51 @@
+{
+    "background": "vague",
+    "classes": [
+        "E.coli",
+        "S.aureus"
+    ],
+    "colonies_number": 5,
+    "labels": [
+        {
+            "class": "S.aureus",
+            "height": 47,
+            "id": 1,
+            "width": 47,
+            "x": 1625,
+            "y": 2183
+        },
+        {
+            "class": "S.aureus",
+            "height": 57,
+            "id": 2,
+            "width": 57,
+            "x": 982,
+            "y": 2522
+        },
+        {
+            "class": "S.aureus",
+            "height": 42,
+            "id": 3,
+            "width": 42,
+            "x": 1824,
+            "y": 1490
+        },
+        {
+            "class": "E.coli",
+            "height": 155,
+            "id": 4,
+            "width": 155,
+            "x": 1546,
+            "y": 1361
+        },
+        {
+            "class": "S.aureus",
+            "height": 39,
+            "id": 5,
+            "width": 39,
+            "x": 1363,
+            "y": 806
+        }
+    ],
+    "sample_id": 12085
+}

@@ -1,0 +1,99 @@
+{
+    "background": "lower-resolution",
+    "classes": [
+        "E.coli",
+        "S.aureus"
+    ],
+    "colonies_number": 11,
+    "labels": [
+        {
+            "class": "S.aureus",
+            "height": 19,
+            "id": 1,
+            "width": 19,
+            "x": 1679,
+            "y": 973
+        },
+        {
+            "class": "S.aureus",
+            "height": 19,
+            "id": 2,
+            "width": 19,
+            "x": 1005,
+            "y": 406
+        },
+        {
+            "class": "E.coli",
+            "height": 87,
+            "id": 3,
+            "width": 87,
+            "x": 446,
+            "y": 476
+        },
+        {
+            "class": "E.coli",
+            "height": 87,
+            "id": 4,
+            "width": 87,
+            "x": 240,
+            "y": 1162
+        },
+        {
+            "class": "E.coli",
+            "height": 106,
+            "id": 5,
+            "width": 106,
+            "x": 270,
+            "y": 1451
+        },
+        {
+            "class": "E.coli",
+            "height": 106,
+            "id": 6,
+            "width": 106,
+            "x": 922,
+            "y": 1749
+        },
+        {
+            "class": "E.coli",
+            "height": 106,
+            "id": 7,
+            "width": 106,
+            "x": 1397,
+            "y": 1101
+        },
+        {
+            "class": "E.coli",
+            "height": 116,
+            "id": 8,
+            "width": 116,
+            "x": 1482,
+            "y": 929
+        },
+        {
+            "class": "E.coli",
+            "height": 96,
+            "id": 9,
+            "width": 96,
+            "x": 1048,
+            "y": 784
+        },
+        {
+            "class": "E.coli",
+            "height": 106,
+            "id": 10,
+            "width": 106,
+            "x": 1069,
+            "y": 595
+        },
+        {
+            "class": "E.coli",
+            "height": 79,
+            "id": 11,
+            "width": 79,
+            "x": 1083,
+            "y": 1255
+        }
+    ],
+    "sample_id": 13605
+}

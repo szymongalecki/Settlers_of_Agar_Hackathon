@@ -1,0 +1,99 @@
+{
+    "background": "lower-resolution",
+    "classes": [
+        "S.aureus",
+        "P.aeruginosa"
+    ],
+    "colonies_number": 11,
+    "labels": [
+        {
+            "class": "P.aeruginosa",
+            "height": 128,
+            "id": 1,
+            "width": 128,
+            "x": 1095,
+            "y": 156
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 188,
+            "id": 2,
+            "width": 188,
+            "x": 740,
+            "y": 528
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 117,
+            "id": 3,
+            "width": 117,
+            "x": 1730,
+            "y": 678
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 141,
+            "id": 4,
+            "width": 141,
+            "x": 1311,
+            "y": 1076
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 171,
+            "id": 5,
+            "width": 171,
+            "x": 1599,
+            "y": 1224
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 275,
+            "id": 6,
+            "width": 275,
+            "x": 677,
+            "y": 1424
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 250,
+            "id": 7,
+            "width": 250,
+            "x": 729,
+            "y": 1127
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 117,
+            "id": 8,
+            "width": 117,
+            "x": 273,
+            "y": 1034
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 228,
+            "id": 9,
+            "width": 228,
+            "x": 640,
+            "y": 663
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 250,
+            "id": 10,
+            "width": 250,
+            "x": 543,
+            "y": 559
+        },
+        {
+            "class": "S.aureus",
+            "height": 35,
+            "id": 11,
+            "width": 35,
+            "x": 290,
+            "y": 648
+        }
+    ],
+    "sample_id": 13275
+}

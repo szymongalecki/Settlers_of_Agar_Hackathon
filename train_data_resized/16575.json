@@ -1,0 +1,91 @@
+{
+    "background": "lower-resolution",
+    "classes": [
+        "C.albicans",
+        "P.aeruginosa"
+    ],
+    "colonies_number": 10,
+    "labels": [
+        {
+            "class": "P.aeruginosa",
+            "height": 188,
+            "id": 1,
+            "width": 188,
+            "x": 1305,
+            "y": 861
+        },
+        {
+            "class": "C.albicans",
+            "height": 13,
+            "id": 2,
+            "width": 13,
+            "x": 1703,
+            "y": 1230
+        },
+        {
+            "class": "C.albicans",
+            "height": 12,
+            "id": 3,
+            "width": 12,
+            "x": 1351,
+            "y": 1589
+        },
+        {
+            "class": "C.albicans",
+            "height": 15,
+            "id": 4,
+            "width": 15,
+            "x": 1687,
+            "y": 1649
+        },
+        {
+            "class": "C.albicans",
+            "height": 10,
+            "id": 5,
+            "width": 10,
+            "x": 678,
+            "y": 1490
+        },
+        {
+            "class": "C.albicans",
+            "height": 15,
+            "id": 6,
+            "width": 15,
+            "x": 203,
+            "y": 1226
+        },
+        {
+            "class": "C.albicans",
+            "height": 19,
+            "id": 7,
+            "width": 17,
+            "x": 548,
+            "y": 847
+        },
+        {
+            "class": "C.albicans",
+            "height": 12,
+            "id": 8,
+            "width": 12,
+            "x": 926,
+            "y": 808
+        },
+        {
+            "class": "C.albicans",
+            "height": 14,
+            "id": 9,
+            "width": 14,
+            "x": 523,
+            "y": 556
+        },
+        {
+            "class": "C.albicans",
+            "height": 15,
+            "id": 10,
+            "width": 15,
+            "x": 1055,
+            "y": 272
+        }
+    ],
+    "sample_id": 16575
+}

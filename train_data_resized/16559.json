@@ -1,0 +1,131 @@
+{
+    "background": "lower-resolution",
+    "classes": [
+        "C.albicans",
+        "E.coli"
+    ],
+    "colonies_number": 15,
+    "labels": [
+        {
+            "class": "E.coli",
+            "height": 171,
+            "id": 1,
+            "width": 171,
+            "x": 1243,
+            "y": 1183
+        },
+        {
+            "class": "E.coli",
+            "height": 172,
+            "id": 2,
+            "width": 171,
+            "x": 1112,
+            "y": 1673
+        },
+        {
+            "class": "C.albicans",
+            "height": 21,
+            "id": 3,
+            "width": 21,
+            "x": 936,
+            "y": 1626
+        },
+        {
+            "class": "C.albicans",
+            "height": 21,
+            "id": 4,
+            "width": 21,
+            "x": 1863,
+            "y": 1215
+        },
+        {
+            "class": "C.albicans",
+            "height": 23,
+            "id": 5,
+            "width": 21,
+            "x": 1407,
+            "y": 1053
+        },
+        {
+            "class": "C.albicans",
+            "height": 15,
+            "id": 6,
+            "width": 15,
+            "x": 1176,
+            "y": 838
+        },
+        {
+            "class": "C.albicans",
+            "height": 25,
+            "id": 7,
+            "width": 25,
+            "x": 1398,
+            "y": 614
+        },
+        {
+            "class": "C.albicans",
+            "height": 25,
+            "id": 8,
+            "width": 25,
+            "x": 954,
+            "y": 532
+        },
+        {
+            "class": "C.albicans",
+            "height": 21,
+            "id": 9,
+            "width": 21,
+            "x": 1339,
+            "y": 286
+        },
+        {
+            "class": "C.albicans",
+            "height": 23,
+            "id": 10,
+            "width": 23,
+            "x": 551,
+            "y": 731
+        },
+        {
+            "class": "C.albicans",
+            "height": 21,
+            "id": 11,
+            "width": 21,
+            "x": 284,
+            "y": 971
+        },
+        {
+            "class": "C.albicans",
+            "height": 21,
+            "id": 12,
+            "width": 21,
+            "x": 512,
+            "y": 1064
+        },
+        {
+            "class": "C.albicans",
+            "height": 25,
+            "id": 13,
+            "width": 25,
+            "x": 520,
+            "y": 1171
+        },
+        {
+            "class": "C.albicans",
+            "height": 21,
+            "id": 14,
+            "width": 19,
+            "x": 902,
+            "y": 1207
+        },
+        {
+            "class": "C.albicans",
+            "height": 23,
+            "id": 15,
+            "width": 23,
+            "x": 925,
+            "y": 1928
+        }
+    ],
+    "sample_id": 16559
+}

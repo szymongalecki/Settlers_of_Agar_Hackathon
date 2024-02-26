@@ -1,0 +1,50 @@
+{
+    "background": "bright",
+    "classes": [
+        "B.subtilis"
+    ],
+    "colonies_number": 4,
+    "labels": [
+        {
+            "class": "B.subtilis",
+            "height": 231,
+            "id": 1,
+            "width": 231,
+            "x": 693,
+            "y": 1954
+        },
+        {
+            "class": "B.subtilis",
+            "height": 254,
+            "id": 2,
+            "width": 254,
+            "x": 1639,
+            "y": 1472
+        },
+        {
+            "class": "B.subtilis",
+            "height": 130,
+            "id": 3,
+            "width": 130,
+            "x": 1443,
+            "y": 1479
+        },
+        {
+            "class": "B.subtilis",
+            "height": 252,
+            "id": 4,
+            "width": 240,
+            "x": 2940,
+            "y": 2996
+        },
+        {
+            "class": "Contamination",
+            "height": 28,
+            "id": 5,
+            "width": 28,
+            "x": 1865,
+            "y": 845
+        }
+    ],
+    "sample_id": 1047
+}

@@ -1,0 +1,123 @@
+{
+    "background": "lower-resolution",
+    "classes": [
+        "P.aeruginosa",
+        "S.aureus"
+    ],
+    "colonies_number": 12,
+    "labels": [
+        {
+            "class": "Contamination",
+            "height": 114,
+            "id": 1,
+            "width": 114,
+            "x": 295,
+            "y": 1077
+        },
+        {
+            "class": "S.aureus",
+            "height": 19,
+            "id": 2,
+            "width": 19,
+            "x": 1841,
+            "y": 1049
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 141,
+            "id": 3,
+            "width": 141,
+            "x": 878,
+            "y": 279
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 155,
+            "id": 4,
+            "width": 155,
+            "x": 626,
+            "y": 490
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 87,
+            "id": 5,
+            "width": 87,
+            "x": 110,
+            "y": 1021
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 117,
+            "id": 6,
+            "width": 117,
+            "x": 290,
+            "y": 1355
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 207,
+            "id": 7,
+            "width": 207,
+            "x": 631,
+            "y": 1607
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 228,
+            "id": 8,
+            "width": 228,
+            "x": 1000,
+            "y": 1394
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 207,
+            "id": 9,
+            "width": 207,
+            "x": 850,
+            "y": 1295
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 141,
+            "id": 10,
+            "width": 141,
+            "x": 730,
+            "y": 1157
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 228,
+            "id": 11,
+            "width": 228,
+            "x": 1294,
+            "y": 1100
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 207,
+            "id": 12,
+            "width": 207,
+            "x": 1491,
+            "y": 1275
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 141,
+            "id": 13,
+            "width": 141,
+            "x": 1107,
+            "y": 739
+        },
+        {
+            "class": "Contamination",
+            "height": 125,
+            "id": 14,
+            "width": 125,
+            "x": 1303,
+            "y": 1791
+        }
+    ],
+    "sample_id": 17391
+}

@@ -1,0 +1,42 @@
+{
+    "background": "dark",
+    "classes": [
+        "C.albicans"
+    ],
+    "colonies_number": 3,
+    "labels": [
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 1,
+            "width": 45,
+            "x": 1461,
+            "y": 2303
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 2,
+            "width": 45,
+            "x": 1768,
+            "y": 2576
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 3,
+            "width": 45,
+            "x": 2796,
+            "y": 2153
+        },
+        {
+            "class": "Contamination",
+            "height": 45,
+            "id": 4,
+            "width": 45,
+            "x": 1675,
+            "y": 987
+        }
+    ],
+    "sample_id": 5923
+}

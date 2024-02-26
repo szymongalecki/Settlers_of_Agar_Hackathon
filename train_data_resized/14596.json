@@ -1,0 +1,74 @@
+{
+    "background": "lower-resolution",
+    "classes": [
+        "P.aeruginosa"
+    ],
+    "colonies_number": 6,
+    "labels": [
+        {
+            "class": "Defect",
+            "height": 1359,
+            "id": 1,
+            "width": 210,
+            "x": 479,
+            "y": 262
+        },
+        {
+            "class": "Contamination",
+            "height": 114,
+            "id": 2,
+            "width": 114,
+            "x": 1723,
+            "y": 1202
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 155,
+            "id": 3,
+            "width": 155,
+            "x": 1654,
+            "y": 937
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 128,
+            "id": 4,
+            "width": 128,
+            "x": 1065,
+            "y": 1304
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 128,
+            "id": 5,
+            "width": 128,
+            "x": 910,
+            "y": 1314
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 171,
+            "id": 6,
+            "width": 171,
+            "x": 453,
+            "y": 1537
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 250,
+            "id": 7,
+            "width": 250,
+            "x": 375,
+            "y": 615
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 128,
+            "id": 8,
+            "width": 128,
+            "x": 696,
+            "y": 219
+        }
+    ],
+    "sample_id": 14596
+}

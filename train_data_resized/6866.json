@@ -1,0 +1,42 @@
+{
+    "background": "dark",
+    "classes": [
+        "S.aureus"
+    ],
+    "colonies_number": 2,
+    "labels": [
+        {
+            "class": "Defect",
+            "height": 372,
+            "id": 1,
+            "width": 372,
+            "x": 433,
+            "y": 2417
+        },
+        {
+            "class": "S.aureus",
+            "height": 66,
+            "id": 2,
+            "width": 66,
+            "x": 2346,
+            "y": 3284
+        },
+        {
+            "class": "S.aureus",
+            "height": 89,
+            "id": 3,
+            "width": 89,
+            "x": 1532,
+            "y": 769
+        },
+        {
+            "class": "Contamination",
+            "height": 45,
+            "id": 4,
+            "width": 45,
+            "x": 2271,
+            "y": 2048
+        }
+    ],
+    "sample_id": 6866
+}

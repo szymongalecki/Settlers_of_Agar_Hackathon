@@ -1,0 +1,51 @@
+{
+    "background": "lower-resolution",
+    "classes": [
+        "E.coli",
+        "P.aeruginosa"
+    ],
+    "colonies_number": 5,
+    "labels": [
+        {
+            "class": "P.aeruginosa",
+            "height": 171,
+            "id": 1,
+            "width": 182,
+            "x": 1232,
+            "y": 357
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 179,
+            "id": 2,
+            "width": 171,
+            "x": 1533,
+            "y": 1134
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 72,
+            "id": 3,
+            "width": 72,
+            "x": 871,
+            "y": 1220
+        },
+        {
+            "class": "E.coli",
+            "height": 113,
+            "id": 4,
+            "width": 116,
+            "x": 995,
+            "y": 1495
+        },
+        {
+            "class": "E.coli",
+            "height": 141,
+            "id": 5,
+            "width": 141,
+            "x": 569,
+            "y": 479
+        }
+    ],
+    "sample_id": 13687
+}

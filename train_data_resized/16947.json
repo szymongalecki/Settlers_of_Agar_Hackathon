@@ -1,0 +1,67 @@
+{
+    "background": "lower-resolution",
+    "classes": [
+        "E.coli",
+        "P.aeruginosa"
+    ],
+    "colonies_number": 6,
+    "labels": [
+        {
+            "class": "P.aeruginosa",
+            "height": 96,
+            "id": 1,
+            "width": 96,
+            "x": 927,
+            "y": 1702
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 79,
+            "id": 2,
+            "width": 79,
+            "x": 868,
+            "y": 1226
+        },
+        {
+            "class": "E.coli",
+            "height": 128,
+            "id": 3,
+            "width": 128,
+            "x": 1226,
+            "y": 1467
+        },
+        {
+            "class": "E.coli",
+            "height": 141,
+            "id": 4,
+            "width": 149,
+            "x": 1617,
+            "y": 898
+        },
+        {
+            "class": "E.coli",
+            "height": 49,
+            "id": 5,
+            "width": 49,
+            "x": 1545,
+            "y": 457
+        },
+        {
+            "class": "E.coli",
+            "height": 72,
+            "id": 6,
+            "width": 72,
+            "x": 1321,
+            "y": 1763
+        },
+        {
+            "class": "Defect",
+            "height": 14,
+            "id": 7,
+            "width": 14,
+            "x": 982,
+            "y": 318
+        }
+    ],
+    "sample_id": 16947
+}

@@ -1,0 +1,42 @@
+{
+    "background": "dark",
+    "classes": [
+        "B.subtilis"
+    ],
+    "colonies_number": 2,
+    "labels": [
+        {
+            "class": "B.subtilis",
+            "height": 190,
+            "id": 1,
+            "width": 190,
+            "x": 783,
+            "y": 1470
+        },
+        {
+            "class": "B.subtilis",
+            "height": 143,
+            "id": 2,
+            "width": 143,
+            "x": 1847,
+            "y": 1260
+        },
+        {
+            "class": "Defect",
+            "height": 28,
+            "id": 3,
+            "width": 28,
+            "x": 2857,
+            "y": 2256
+        },
+        {
+            "class": "Defect",
+            "height": 28,
+            "id": 4,
+            "width": 28,
+            "x": 2705,
+            "y": 1172
+        }
+    ],
+    "sample_id": 6083
+}

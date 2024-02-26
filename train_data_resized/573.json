@@ -1,0 +1,898 @@
+{
+    "background": "bright",
+    "classes": [
+        "P.aeruginosa"
+    ],
+    "colonies_number": 111,
+    "labels": [
+        {
+            "class": "P.aeruginosa",
+            "height": 66,
+            "id": 1,
+            "width": 66,
+            "x": 551,
+            "y": 1464
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 73,
+            "id": 2,
+            "width": 73,
+            "x": 573,
+            "y": 1369
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 55,
+            "id": 3,
+            "width": 55,
+            "x": 664,
+            "y": 1229
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 73,
+            "id": 4,
+            "width": 73,
+            "x": 736,
+            "y": 1247
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 73,
+            "id": 5,
+            "width": 73,
+            "x": 741,
+            "y": 1300
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 62,
+            "id": 6,
+            "width": 55,
+            "x": 705,
+            "y": 1274
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 73,
+            "id": 7,
+            "width": 73,
+            "x": 679,
+            "y": 1303
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 80,
+            "id": 8,
+            "width": 80,
+            "x": 776,
+            "y": 1224
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 60,
+            "id": 9,
+            "width": 60,
+            "x": 861,
+            "y": 1100
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 88,
+            "id": 10,
+            "width": 55,
+            "x": 820,
+            "y": 1157
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 97,
+            "id": 11,
+            "width": 97,
+            "x": 749,
+            "y": 1151
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 114,
+            "id": 12,
+            "width": 97,
+            "x": 858,
+            "y": 1157
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 89,
+            "id": 13,
+            "width": 89,
+            "x": 902,
+            "y": 1120
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 107,
+            "id": 14,
+            "width": 107,
+            "x": 1034,
+            "y": 1092
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 89,
+            "id": 15,
+            "width": 89,
+            "x": 962,
+            "y": 955
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 60,
+            "id": 16,
+            "width": 60,
+            "x": 1160,
+            "y": 898
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 50,
+            "id": 17,
+            "width": 50,
+            "x": 1141,
+            "y": 837
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 66,
+            "id": 18,
+            "width": 66,
+            "x": 1087,
+            "y": 852
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 89,
+            "id": 19,
+            "width": 89,
+            "x": 1002,
+            "y": 879
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 78,
+            "id": 20,
+            "width": 66,
+            "x": 1205,
+            "y": 1009
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 73,
+            "id": 21,
+            "width": 73,
+            "x": 1158,
+            "y": 1028
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 66,
+            "id": 22,
+            "width": 66,
+            "x": 1244,
+            "y": 994
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 88,
+            "id": 23,
+            "width": 60,
+            "x": 1315,
+            "y": 937
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 96,
+            "id": 24,
+            "width": 66,
+            "x": 1364,
+            "y": 915
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 97,
+            "id": 25,
+            "width": 97,
+            "x": 1477,
+            "y": 881
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 66,
+            "id": 26,
+            "width": 66,
+            "x": 1572,
+            "y": 819
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 97,
+            "id": 27,
+            "width": 97,
+            "x": 1613,
+            "y": 763
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 73,
+            "id": 28,
+            "width": 73,
+            "x": 1465,
+            "y": 702
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 89,
+            "id": 29,
+            "width": 60,
+            "x": 1418,
+            "y": 699
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 89,
+            "id": 30,
+            "width": 73,
+            "x": 1362,
+            "y": 717
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 73,
+            "id": 31,
+            "width": 73,
+            "x": 1298,
+            "y": 748
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 60,
+            "id": 32,
+            "width": 60,
+            "x": 1258,
+            "y": 767
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 60,
+            "id": 33,
+            "width": 60,
+            "x": 1256,
+            "y": 816
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 55,
+            "id": 34,
+            "width": 55,
+            "x": 1220,
+            "y": 786
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 60,
+            "id": 35,
+            "width": 60,
+            "x": 1184,
+            "y": 807
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 55,
+            "id": 36,
+            "width": 55,
+            "x": 1216,
+            "y": 831
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 107,
+            "id": 37,
+            "width": 107,
+            "x": 1804,
+            "y": 1179
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 97,
+            "id": 38,
+            "width": 97,
+            "x": 1240,
+            "y": 1553
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 97,
+            "id": 39,
+            "width": 97,
+            "x": 1225,
+            "y": 1750
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 66,
+            "id": 40,
+            "width": 66,
+            "x": 1236,
+            "y": 1898
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 66,
+            "id": 41,
+            "width": 66,
+            "x": 1467,
+            "y": 1883
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 80,
+            "id": 42,
+            "width": 80,
+            "x": 1407,
+            "y": 1969
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 89,
+            "id": 43,
+            "width": 89,
+            "x": 1313,
+            "y": 2095
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 55,
+            "id": 44,
+            "width": 55,
+            "x": 514,
+            "y": 2057
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 60,
+            "id": 45,
+            "width": 60,
+            "x": 315,
+            "y": 1856
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 66,
+            "id": 46,
+            "width": 109,
+            "x": 340,
+            "y": 2200
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 73,
+            "id": 47,
+            "width": 94,
+            "x": 358,
+            "y": 2136
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 89,
+            "id": 48,
+            "width": 89,
+            "x": 351,
+            "y": 2258
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 66,
+            "id": 49,
+            "width": 66,
+            "x": 485,
+            "y": 2275
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 143,
+            "id": 50,
+            "width": 143,
+            "x": 435,
+            "y": 2334
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 66,
+            "id": 51,
+            "width": 66,
+            "x": 1407,
+            "y": 2292
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 118,
+            "id": 52,
+            "width": 153,
+            "x": 1349,
+            "y": 2186
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 97,
+            "id": 53,
+            "width": 97,
+            "x": 1261,
+            "y": 2331
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 231,
+            "id": 54,
+            "width": 231,
+            "x": 1231,
+            "y": 2722
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 157,
+            "id": 55,
+            "width": 157,
+            "x": 936,
+            "y": 2700
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 107,
+            "id": 56,
+            "width": 107,
+            "x": 840,
+            "y": 3104
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 66,
+            "id": 57,
+            "width": 66,
+            "x": 964,
+            "y": 3266
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 60,
+            "id": 58,
+            "width": 60,
+            "x": 1047,
+            "y": 3295
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 89,
+            "id": 59,
+            "width": 89,
+            "x": 1108,
+            "y": 3365
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 118,
+            "id": 60,
+            "width": 118,
+            "x": 709,
+            "y": 3064
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 107,
+            "id": 61,
+            "width": 107,
+            "x": 680,
+            "y": 3026
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 107,
+            "id": 62,
+            "width": 107,
+            "x": 629,
+            "y": 2965
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 118,
+            "id": 63,
+            "width": 164,
+            "x": 557,
+            "y": 2879
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 233,
+            "id": 64,
+            "width": 210,
+            "x": 527,
+            "y": 2654
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 210,
+            "id": 65,
+            "width": 210,
+            "x": 442,
+            "y": 2580
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 42,
+            "id": 66,
+            "width": 55,
+            "x": 1569,
+            "y": 3514
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 47,
+            "id": 67,
+            "width": 60,
+            "x": 2122,
+            "y": 3369
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 75,
+            "id": 68,
+            "width": 60,
+            "x": 2356,
+            "y": 3265
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 89,
+            "id": 69,
+            "width": 108,
+            "x": 2423,
+            "y": 3164
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 130,
+            "id": 70,
+            "width": 130,
+            "x": 2219,
+            "y": 3146
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 139,
+            "id": 71,
+            "width": 130,
+            "x": 2105,
+            "y": 3130
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 108,
+            "id": 72,
+            "width": 80,
+            "x": 1760,
+            "y": 2295
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 66,
+            "id": 73,
+            "width": 66,
+            "x": 1702,
+            "y": 2305
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 66,
+            "id": 74,
+            "width": 66,
+            "x": 1827,
+            "y": 2306
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 117,
+            "id": 75,
+            "width": 130,
+            "x": 1911,
+            "y": 2228
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 107,
+            "id": 76,
+            "width": 107,
+            "x": 2115,
+            "y": 2254
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 89,
+            "id": 77,
+            "width": 106,
+            "x": 1717,
+            "y": 2420
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 118,
+            "id": 78,
+            "width": 156,
+            "x": 1675,
+            "y": 2493
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 143,
+            "id": 79,
+            "width": 156,
+            "x": 1654,
+            "y": 2626
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 97,
+            "id": 80,
+            "width": 97,
+            "x": 2550,
+            "y": 2335
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 73,
+            "id": 81,
+            "width": 88,
+            "x": 2408,
+            "y": 2254
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 80,
+            "id": 82,
+            "width": 80,
+            "x": 2386,
+            "y": 2317
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 97,
+            "id": 83,
+            "width": 97,
+            "x": 2585,
+            "y": 3076
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 157,
+            "id": 84,
+            "width": 170,
+            "x": 2425,
+            "y": 3029
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 173,
+            "id": 85,
+            "width": 173,
+            "x": 2524,
+            "y": 2920
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 97,
+            "id": 86,
+            "width": 97,
+            "x": 2653,
+            "y": 2665
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 73,
+            "id": 87,
+            "width": 73,
+            "x": 2710,
+            "y": 1830
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 41,
+            "id": 88,
+            "width": 41,
+            "x": 2888,
+            "y": 1740
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 74,
+            "id": 89,
+            "width": 66,
+            "x": 2836,
+            "y": 1740
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 45,
+            "id": 90,
+            "width": 45,
+            "x": 2905,
+            "y": 1768
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 101,
+            "id": 91,
+            "width": 89,
+            "x": 2801,
+            "y": 1614
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 73,
+            "id": 92,
+            "width": 73,
+            "x": 2540,
+            "y": 1390
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 89,
+            "id": 93,
+            "width": 89,
+            "x": 2400,
+            "y": 1395
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 66,
+            "id": 94,
+            "width": 66,
+            "x": 2340,
+            "y": 1576
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 55,
+            "id": 95,
+            "width": 55,
+            "x": 2119,
+            "y": 1585
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 34,
+            "id": 96,
+            "width": 34,
+            "x": 2079,
+            "y": 1840
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 55,
+            "id": 97,
+            "width": 55,
+            "x": 2030,
+            "y": 1772
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 41,
+            "id": 98,
+            "width": 41,
+            "x": 2022,
+            "y": 1737
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 34,
+            "id": 99,
+            "width": 34,
+            "x": 2025,
+            "y": 1711
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 41,
+            "id": 100,
+            "width": 36,
+            "x": 2027,
+            "y": 1674
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 55,
+            "id": 101,
+            "width": 55,
+            "x": 1947,
+            "y": 1684
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 60,
+            "id": 102,
+            "width": 60,
+            "x": 2129,
+            "y": 2037
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 55,
+            "id": 103,
+            "width": 55,
+            "x": 1910,
+            "y": 2029
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 80,
+            "id": 104,
+            "width": 80,
+            "x": 1845,
+            "y": 2043
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 80,
+            "id": 105,
+            "width": 80,
+            "x": 1896,
+            "y": 2096
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 89,
+            "id": 106,
+            "width": 89,
+            "x": 2569,
+            "y": 2048
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 80,
+            "id": 107,
+            "width": 80,
+            "x": 3004,
+            "y": 1901
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 60,
+            "id": 108,
+            "width": 60,
+            "x": 3072,
+            "y": 1832
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 97,
+            "id": 109,
+            "width": 97,
+            "x": 2907,
+            "y": 1920
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 89,
+            "id": 110,
+            "width": 89,
+            "x": 2707,
+            "y": 1928
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 80,
+            "id": 111,
+            "width": 80,
+            "x": 2701,
+            "y": 2001
+        }
+    ],
+    "sample_id": 573
+}

@@ -1,0 +1,299 @@
+{
+    "background": "dark",
+    "classes": [
+        "P.aeruginosa",
+        "E.coli"
+    ],
+    "colonies_number": 36,
+    "labels": [
+        {
+            "class": "P.aeruginosa",
+            "height": 161,
+            "id": 1,
+            "width": 151,
+            "x": 1210,
+            "y": 2297
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 129,
+            "id": 2,
+            "width": 129,
+            "x": 1401,
+            "y": 2014
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 207,
+            "id": 3,
+            "width": 207,
+            "x": 1682,
+            "y": 2803
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 164,
+            "id": 4,
+            "width": 188,
+            "x": 2004,
+            "y": 2727
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 202,
+            "id": 5,
+            "width": 228,
+            "x": 1935,
+            "y": 2846
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 228,
+            "id": 6,
+            "width": 214,
+            "x": 2238,
+            "y": 2703
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 156,
+            "id": 7,
+            "width": 156,
+            "x": 2258,
+            "y": 3122
+        },
+        {
+            "class": "E.coli",
+            "height": 228,
+            "id": 8,
+            "width": 221,
+            "x": 2543,
+            "y": 2777
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 106,
+            "id": 9,
+            "width": 106,
+            "x": 3417,
+            "y": 2175
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 96,
+            "id": 10,
+            "width": 96,
+            "x": 3465,
+            "y": 1286
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 171,
+            "id": 11,
+            "width": 171,
+            "x": 3390,
+            "y": 1405
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 233,
+            "id": 12,
+            "width": 212,
+            "x": 2992,
+            "y": 1402
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 280,
+            "id": 13,
+            "width": 276,
+            "x": 3141,
+            "y": 1464
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 251,
+            "id": 14,
+            "width": 251,
+            "x": 2708,
+            "y": 1026
+        },
+        {
+            "class": "E.coli",
+            "height": 250,
+            "id": 15,
+            "width": 179,
+            "x": 2945,
+            "y": 1000
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 228,
+            "id": 16,
+            "width": 228,
+            "x": 1780,
+            "y": 819
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 228,
+            "id": 17,
+            "width": 228,
+            "x": 2036,
+            "y": 822
+        },
+        {
+            "class": "E.coli",
+            "height": 228,
+            "id": 18,
+            "width": 234,
+            "x": 1910,
+            "y": 983
+        },
+        {
+            "class": "E.coli",
+            "height": 171,
+            "id": 19,
+            "width": 171,
+            "x": 815,
+            "y": 1653
+        },
+        {
+            "class": "E.coli",
+            "height": 196,
+            "id": 20,
+            "width": 248,
+            "x": 956,
+            "y": 1294
+        },
+        {
+            "class": "E.coli",
+            "height": 207,
+            "id": 21,
+            "width": 242,
+            "x": 987,
+            "y": 1450
+        },
+        {
+            "class": "E.coli",
+            "height": 188,
+            "id": 22,
+            "width": 188,
+            "x": 1708,
+            "y": 2206
+        },
+        {
+            "class": "E.coli",
+            "height": 188,
+            "id": 23,
+            "width": 188,
+            "x": 1978,
+            "y": 2333
+        },
+        {
+            "class": "E.coli",
+            "height": 188,
+            "id": 24,
+            "width": 188,
+            "x": 2040,
+            "y": 2245
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 251,
+            "id": 25,
+            "width": 250,
+            "x": 2335,
+            "y": 1789
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 293,
+            "id": 26,
+            "width": 251,
+            "x": 2385,
+            "y": 1488
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 276,
+            "id": 27,
+            "width": 276,
+            "x": 2624,
+            "y": 1452
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 302,
+            "id": 28,
+            "width": 248,
+            "x": 1718,
+            "y": 1501
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 251,
+            "id": 29,
+            "width": 251,
+            "x": 2094,
+            "y": 1456
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 276,
+            "id": 30,
+            "width": 228,
+            "x": 1904,
+            "y": 1407
+        },
+        {
+            "class": "E.coli",
+            "height": 228,
+            "id": 31,
+            "width": 244,
+            "x": 2114,
+            "y": 1108
+        },
+        {
+            "class": "E.coli",
+            "height": 171,
+            "id": 32,
+            "width": 197,
+            "x": 2136,
+            "y": 1330
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 265,
+            "id": 33,
+            "width": 248,
+            "x": 2948,
+            "y": 1810
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 260,
+            "id": 34,
+            "width": 228,
+            "x": 2804,
+            "y": 1889
+        },
+        {
+            "class": "E.coli",
+            "height": 218,
+            "id": 35,
+            "width": 171,
+            "x": 1431,
+            "y": 1637
+        },
+        {
+            "class": "E.coli",
+            "height": 256,
+            "id": 36,
+            "width": 171,
+            "x": 1546,
+            "y": 1599
+        }
+    ],
+    "sample_id": 3640
+}

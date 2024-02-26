@@ -1,0 +1,994 @@
+{
+    "background": "bright",
+    "classes": [
+        "C.albicans"
+    ],
+    "colonies_number": 122,
+    "labels": [
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 1,
+            "width": 41,
+            "x": 512,
+            "y": 2301
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 2,
+            "width": 45,
+            "x": 717,
+            "y": 2296
+        },
+        {
+            "class": "Defect",
+            "height": 10,
+            "id": 3,
+            "width": 10,
+            "x": 680,
+            "y": 2319
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 4,
+            "width": 41,
+            "x": 759,
+            "y": 2220
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 5,
+            "width": 41,
+            "x": 866,
+            "y": 2331
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 6,
+            "width": 45,
+            "x": 863,
+            "y": 2568
+        },
+        {
+            "class": "C.albicans",
+            "height": 34,
+            "id": 7,
+            "width": 23,
+            "x": 618,
+            "y": 2677
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 8,
+            "width": 41,
+            "x": 996,
+            "y": 2784
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 9,
+            "width": 45,
+            "x": 1066,
+            "y": 2768
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 10,
+            "width": 45,
+            "x": 1175,
+            "y": 2669
+        },
+        {
+            "class": "C.albicans",
+            "height": 31,
+            "id": 11,
+            "width": 35,
+            "x": 970,
+            "y": 3090
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 12,
+            "width": 41,
+            "x": 1236,
+            "y": 3221
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 13,
+            "width": 45,
+            "x": 1480,
+            "y": 3270
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 14,
+            "width": 45,
+            "x": 1714,
+            "y": 3252
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 15,
+            "width": 45,
+            "x": 1815,
+            "y": 3277
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 16,
+            "width": 45,
+            "x": 1395,
+            "y": 2915
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 17,
+            "width": 35,
+            "x": 1551,
+            "y": 2920
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 18,
+            "width": 35,
+            "x": 1585,
+            "y": 2923
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 19,
+            "width": 45,
+            "x": 1693,
+            "y": 2938
+        },
+        {
+            "class": "C.albicans",
+            "height": 37,
+            "id": 20,
+            "width": 42,
+            "x": 1684,
+            "y": 2907
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 21,
+            "width": 45,
+            "x": 1777,
+            "y": 2902
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 22,
+            "width": 45,
+            "x": 1988,
+            "y": 2994
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 23,
+            "width": 45,
+            "x": 1837,
+            "y": 2835
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 24,
+            "width": 41,
+            "x": 2191,
+            "y": 2968
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 25,
+            "width": 41,
+            "x": 2312,
+            "y": 3065
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 26,
+            "width": 45,
+            "x": 2178,
+            "y": 2700
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 27,
+            "width": 45,
+            "x": 1765,
+            "y": 2528
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 28,
+            "width": 45,
+            "x": 1691,
+            "y": 2446
+        },
+        {
+            "class": "C.albicans",
+            "height": 37,
+            "id": 29,
+            "width": 41,
+            "x": 1508,
+            "y": 2557
+        },
+        {
+            "class": "C.albicans",
+            "height": 37,
+            "id": 30,
+            "width": 39,
+            "x": 1495,
+            "y": 2569
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 31,
+            "width": 41,
+            "x": 1346,
+            "y": 2428
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 32,
+            "width": 41,
+            "x": 1117,
+            "y": 2310
+        },
+        {
+            "class": "C.albicans",
+            "height": 31,
+            "id": 33,
+            "width": 41,
+            "x": 1082,
+            "y": 2476
+        },
+        {
+            "class": "C.albicans",
+            "height": 30,
+            "id": 34,
+            "width": 43,
+            "x": 1074,
+            "y": 2451
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 35,
+            "width": 41,
+            "x": 577,
+            "y": 2009
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 36,
+            "width": 41,
+            "x": 628,
+            "y": 2005
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 37,
+            "width": 41,
+            "x": 804,
+            "y": 2081
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 38,
+            "width": 41,
+            "x": 853,
+            "y": 2036
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 39,
+            "width": 45,
+            "x": 1143,
+            "y": 1933
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 40,
+            "width": 36,
+            "x": 1009,
+            "y": 2056
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 41,
+            "width": 41,
+            "x": 1041,
+            "y": 2063
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 42,
+            "width": 45,
+            "x": 604,
+            "y": 1723
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 43,
+            "width": 41,
+            "x": 1019,
+            "y": 1796
+        },
+        {
+            "class": "C.albicans",
+            "height": 37,
+            "id": 44,
+            "width": 37,
+            "x": 1159,
+            "y": 1800
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 45,
+            "width": 41,
+            "x": 922,
+            "y": 1615
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 46,
+            "width": 41,
+            "x": 946,
+            "y": 1558
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 47,
+            "width": 41,
+            "x": 1128,
+            "y": 1634
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 48,
+            "width": 41,
+            "x": 989,
+            "y": 1457
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 49,
+            "width": 41,
+            "x": 1051,
+            "y": 1520
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 50,
+            "width": 41,
+            "x": 1096,
+            "y": 1520
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 51,
+            "width": 41,
+            "x": 1281,
+            "y": 1601
+        },
+        {
+            "class": "C.albicans",
+            "height": 50,
+            "id": 52,
+            "width": 50,
+            "x": 1404,
+            "y": 1592
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 53,
+            "width": 45,
+            "x": 1443,
+            "y": 1762
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 54,
+            "width": 45,
+            "x": 1890,
+            "y": 2047
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 55,
+            "width": 45,
+            "x": 2117,
+            "y": 2318
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 56,
+            "width": 41,
+            "x": 2771,
+            "y": 2860
+        },
+        {
+            "class": "C.albicans",
+            "height": 37,
+            "id": 57,
+            "width": 37,
+            "x": 2752,
+            "y": 2826
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 58,
+            "width": 41,
+            "x": 2766,
+            "y": 2789
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 59,
+            "width": 41,
+            "x": 2847,
+            "y": 2662
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 60,
+            "width": 45,
+            "x": 3042,
+            "y": 2781
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 61,
+            "width": 41,
+            "x": 3113,
+            "y": 2677
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 62,
+            "width": 45,
+            "x": 3252,
+            "y": 2703
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 63,
+            "width": 45,
+            "x": 3226,
+            "y": 2638
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 64,
+            "width": 41,
+            "x": 2579,
+            "y": 2203
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 65,
+            "width": 41,
+            "x": 2845,
+            "y": 2190
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 66,
+            "width": 41,
+            "x": 2954,
+            "y": 2157
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 67,
+            "width": 41,
+            "x": 3251,
+            "y": 1887
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 68,
+            "width": 45,
+            "x": 3325,
+            "y": 1646
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 69,
+            "width": 41,
+            "x": 3557,
+            "y": 1621
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 70,
+            "width": 45,
+            "x": 3458,
+            "y": 1441
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 71,
+            "width": 41,
+            "x": 3384,
+            "y": 1375
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 72,
+            "width": 45,
+            "x": 3027,
+            "y": 1352
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 73,
+            "width": 41,
+            "x": 2404,
+            "y": 1435
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 74,
+            "width": 41,
+            "x": 2277,
+            "y": 1436
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 75,
+            "width": 41,
+            "x": 2528,
+            "y": 1311
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 76,
+            "width": 41,
+            "x": 2715,
+            "y": 1148
+        },
+        {
+            "class": "C.albicans",
+            "height": 37,
+            "id": 77,
+            "width": 37,
+            "x": 2526,
+            "y": 1038
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 78,
+            "width": 41,
+            "x": 2471,
+            "y": 1079
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 79,
+            "width": 41,
+            "x": 2412,
+            "y": 1087
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 80,
+            "width": 41,
+            "x": 2268,
+            "y": 1246
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 81,
+            "width": 45,
+            "x": 2118,
+            "y": 1322
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 82,
+            "width": 41,
+            "x": 2273,
+            "y": 1154
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 83,
+            "width": 41,
+            "x": 1992,
+            "y": 1199
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 84,
+            "width": 41,
+            "x": 1778,
+            "y": 1166
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 85,
+            "width": 45,
+            "x": 2875,
+            "y": 649
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 86,
+            "width": 45,
+            "x": 2792,
+            "y": 550
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 87,
+            "width": 41,
+            "x": 2406,
+            "y": 700
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 88,
+            "width": 41,
+            "x": 2272,
+            "y": 847
+        },
+        {
+            "class": "C.albicans",
+            "height": 37,
+            "id": 89,
+            "width": 37,
+            "x": 2234,
+            "y": 846
+        },
+        {
+            "class": "C.albicans",
+            "height": 37,
+            "id": 90,
+            "width": 37,
+            "x": 2360,
+            "y": 308
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 91,
+            "width": 41,
+            "x": 2194,
+            "y": 406
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 92,
+            "width": 41,
+            "x": 1971,
+            "y": 849
+        },
+        {
+            "class": "C.albicans",
+            "height": 37,
+            "id": 93,
+            "width": 37,
+            "x": 2030,
+            "y": 871
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 94,
+            "width": 41,
+            "x": 2007,
+            "y": 901
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 95,
+            "width": 45,
+            "x": 1880,
+            "y": 304
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 96,
+            "width": 41,
+            "x": 1896,
+            "y": 431
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 97,
+            "width": 41,
+            "x": 1874,
+            "y": 581
+        },
+        {
+            "class": "C.albicans",
+            "height": 37,
+            "id": 98,
+            "width": 37,
+            "x": 1889,
+            "y": 698
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 99,
+            "width": 41,
+            "x": 1868,
+            "y": 762
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 100,
+            "width": 41,
+            "x": 1826,
+            "y": 779
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 101,
+            "width": 45,
+            "x": 1775,
+            "y": 869
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 102,
+            "width": 41,
+            "x": 1679,
+            "y": 487
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 103,
+            "width": 41,
+            "x": 1679,
+            "y": 542
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 104,
+            "width": 41,
+            "x": 1594,
+            "y": 533
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 105,
+            "width": 41,
+            "x": 1507,
+            "y": 639
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 106,
+            "width": 41,
+            "x": 1471,
+            "y": 697
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 107,
+            "width": 41,
+            "x": 1585,
+            "y": 759
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 108,
+            "width": 45,
+            "x": 1499,
+            "y": 1011
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 109,
+            "width": 41,
+            "x": 1412,
+            "y": 1134
+        },
+        {
+            "class": "C.albicans",
+            "height": 50,
+            "id": 110,
+            "width": 50,
+            "x": 1384,
+            "y": 523
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 111,
+            "width": 45,
+            "x": 1279,
+            "y": 603
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 112,
+            "width": 41,
+            "x": 1260,
+            "y": 753
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 113,
+            "width": 41,
+            "x": 1271,
+            "y": 846
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 114,
+            "width": 41,
+            "x": 1207,
+            "y": 1390
+        },
+        {
+            "class": "C.albicans",
+            "height": 23,
+            "id": 115,
+            "width": 23,
+            "x": 977,
+            "y": 1390
+        },
+        {
+            "class": "C.albicans",
+            "height": 37,
+            "id": 116,
+            "width": 37,
+            "x": 976,
+            "y": 1319
+        },
+        {
+            "class": "C.albicans",
+            "height": 45,
+            "id": 117,
+            "width": 45,
+            "x": 999,
+            "y": 1215
+        },
+        {
+            "class": "C.albicans",
+            "height": 37,
+            "id": 118,
+            "width": 37,
+            "x": 872,
+            "y": 1192
+        },
+        {
+            "class": "C.albicans",
+            "height": 37,
+            "id": 119,
+            "width": 37,
+            "x": 867,
+            "y": 1274
+        },
+        {
+            "class": "C.albicans",
+            "height": 28,
+            "id": 120,
+            "width": 28,
+            "x": 893,
+            "y": 1298
+        },
+        {
+            "class": "C.albicans",
+            "height": 37,
+            "id": 121,
+            "width": 37,
+            "x": 779,
+            "y": 1278
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 122,
+            "width": 41,
+            "x": 722,
+            "y": 987
+        },
+        {
+            "class": "C.albicans",
+            "height": 41,
+            "id": 123,
+            "width": 41,
+            "x": 930,
+            "y": 840
+        }
+    ],
+    "sample_id": 345
+}

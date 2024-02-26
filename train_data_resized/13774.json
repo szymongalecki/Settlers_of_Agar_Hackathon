@@ -1,0 +1,354 @@
+{
+    "background": "lower-resolution",
+    "classes": [
+        "S.aureus"
+    ],
+    "colonies_number": 43,
+    "labels": [
+        {
+            "class": "S.aureus",
+            "height": 19,
+            "id": 1,
+            "width": 19,
+            "x": 722,
+            "y": 329
+        },
+        {
+            "class": "S.aureus",
+            "height": 21,
+            "id": 2,
+            "width": 21,
+            "x": 963,
+            "y": 540
+        },
+        {
+            "class": "S.aureus",
+            "height": 18,
+            "id": 3,
+            "width": 18,
+            "x": 694,
+            "y": 580
+        },
+        {
+            "class": "S.aureus",
+            "height": 21,
+            "id": 4,
+            "width": 21,
+            "x": 775,
+            "y": 593
+        },
+        {
+            "class": "S.aureus",
+            "height": 19,
+            "id": 5,
+            "width": 19,
+            "x": 849,
+            "y": 822
+        },
+        {
+            "class": "S.aureus",
+            "height": 16,
+            "id": 6,
+            "width": 16,
+            "x": 567,
+            "y": 878
+        },
+        {
+            "class": "S.aureus",
+            "height": 19,
+            "id": 7,
+            "width": 19,
+            "x": 529,
+            "y": 908
+        },
+        {
+            "class": "S.aureus",
+            "height": 19,
+            "id": 8,
+            "width": 19,
+            "x": 659,
+            "y": 1005
+        },
+        {
+            "class": "S.aureus",
+            "height": 19,
+            "id": 9,
+            "width": 19,
+            "x": 353,
+            "y": 1324
+        },
+        {
+            "class": "S.aureus",
+            "height": 16,
+            "id": 10,
+            "width": 16,
+            "x": 495,
+            "y": 1402
+        },
+        {
+            "class": "S.aureus",
+            "height": 21,
+            "id": 11,
+            "width": 21,
+            "x": 477,
+            "y": 1527
+        },
+        {
+            "class": "S.aureus",
+            "height": 18,
+            "id": 12,
+            "width": 18,
+            "x": 730,
+            "y": 1813
+        },
+        {
+            "class": "S.aureus",
+            "height": 19,
+            "id": 13,
+            "width": 19,
+            "x": 806,
+            "y": 1669
+        },
+        {
+            "class": "S.aureus",
+            "height": 13,
+            "id": 14,
+            "width": 13,
+            "x": 804,
+            "y": 1559
+        },
+        {
+            "class": "S.aureus",
+            "height": 16,
+            "id": 15,
+            "width": 16,
+            "x": 934,
+            "y": 1797
+        },
+        {
+            "class": "S.aureus",
+            "height": 21,
+            "id": 16,
+            "width": 21,
+            "x": 964,
+            "y": 1373
+        },
+        {
+            "class": "S.aureus",
+            "height": 19,
+            "id": 17,
+            "width": 19,
+            "x": 1215,
+            "y": 1425
+        },
+        {
+            "class": "S.aureus",
+            "height": 19,
+            "id": 18,
+            "width": 19,
+            "x": 1315,
+            "y": 1663
+        },
+        {
+            "class": "S.aureus",
+            "height": 19,
+            "id": 19,
+            "width": 19,
+            "x": 1356,
+            "y": 1661
+        },
+        {
+            "class": "S.aureus",
+            "height": 19,
+            "id": 20,
+            "width": 19,
+            "x": 1333,
+            "y": 1746
+        },
+        {
+            "class": "S.aureus",
+            "height": 19,
+            "id": 21,
+            "width": 19,
+            "x": 1657,
+            "y": 1431
+        },
+        {
+            "class": "S.aureus",
+            "height": 21,
+            "id": 22,
+            "width": 21,
+            "x": 1423,
+            "y": 1331
+        },
+        {
+            "class": "S.aureus",
+            "height": 19,
+            "id": 23,
+            "width": 19,
+            "x": 1378,
+            "y": 1326
+        },
+        {
+            "class": "S.aureus",
+            "height": 19,
+            "id": 24,
+            "width": 19,
+            "x": 1476,
+            "y": 1278
+        },
+        {
+            "class": "S.aureus",
+            "height": 19,
+            "id": 25,
+            "width": 19,
+            "x": 1300,
+            "y": 1341
+        },
+        {
+            "class": "S.aureus",
+            "height": 16,
+            "id": 26,
+            "width": 16,
+            "x": 1361,
+            "y": 1159
+        },
+        {
+            "class": "S.aureus",
+            "height": 19,
+            "id": 27,
+            "width": 19,
+            "x": 1207,
+            "y": 1167
+        },
+        {
+            "class": "S.aureus",
+            "height": 21,
+            "id": 28,
+            "width": 21,
+            "x": 1259,
+            "y": 1073
+        },
+        {
+            "class": "S.aureus",
+            "height": 21,
+            "id": 29,
+            "width": 21,
+            "x": 1331,
+            "y": 881
+        },
+        {
+            "class": "S.aureus",
+            "height": 21,
+            "id": 30,
+            "width": 21,
+            "x": 1644,
+            "y": 943
+        },
+        {
+            "class": "S.aureus",
+            "height": 19,
+            "id": 31,
+            "width": 19,
+            "x": 1877,
+            "y": 1002
+        },
+        {
+            "class": "S.aureus",
+            "height": 21,
+            "id": 32,
+            "width": 21,
+            "x": 1751,
+            "y": 814
+        },
+        {
+            "class": "S.aureus",
+            "height": 21,
+            "id": 33,
+            "width": 21,
+            "x": 1619,
+            "y": 763
+        },
+        {
+            "class": "S.aureus",
+            "height": 21,
+            "id": 34,
+            "width": 21,
+            "x": 1609,
+            "y": 646
+        },
+        {
+            "class": "S.aureus",
+            "height": 16,
+            "id": 35,
+            "width": 16,
+            "x": 1514,
+            "y": 500
+        },
+        {
+            "class": "S.aureus",
+            "height": 19,
+            "id": 36,
+            "width": 19,
+            "x": 1324,
+            "y": 629
+        },
+        {
+            "class": "S.aureus",
+            "height": 18,
+            "id": 37,
+            "width": 18,
+            "x": 1338,
+            "y": 597
+        },
+        {
+            "class": "S.aureus",
+            "height": 21,
+            "id": 38,
+            "width": 21,
+            "x": 1259,
+            "y": 608
+        },
+        {
+            "class": "S.aureus",
+            "height": 21,
+            "id": 39,
+            "width": 21,
+            "x": 1145,
+            "y": 590
+        },
+        {
+            "class": "S.aureus",
+            "height": 21,
+            "id": 40,
+            "width": 21,
+            "x": 1317,
+            "y": 526
+        },
+        {
+            "class": "S.aureus",
+            "height": 21,
+            "id": 41,
+            "width": 21,
+            "x": 1246,
+            "y": 466
+        },
+        {
+            "class": "S.aureus",
+            "height": 18,
+            "id": 42,
+            "width": 18,
+            "x": 1394,
+            "y": 389
+        },
+        {
+            "class": "S.aureus",
+            "height": 19,
+            "id": 43,
+            "width": 19,
+            "x": 1232,
+            "y": 284
+        }
+    ],
+    "sample_id": 13774
+}

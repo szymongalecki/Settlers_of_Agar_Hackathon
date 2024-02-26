@@ -1,0 +1,67 @@
+{
+    "background": "lower-resolution",
+    "classes": [
+        "P.aeruginosa",
+        "S.aureus"
+    ],
+    "colonies_number": 7,
+    "labels": [
+        {
+            "class": "S.aureus",
+            "height": 51,
+            "id": 1,
+            "width": 51,
+            "x": 1071,
+            "y": 292
+        },
+        {
+            "class": "S.aureus",
+            "height": 57,
+            "id": 2,
+            "width": 57,
+            "x": 289,
+            "y": 1234
+        },
+        {
+            "class": "S.aureus",
+            "height": 51,
+            "id": 3,
+            "width": 51,
+            "x": 738,
+            "y": 1448
+        },
+        {
+            "class": "S.aureus",
+            "height": 57,
+            "id": 4,
+            "width": 57,
+            "x": 758,
+            "y": 1800
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 155,
+            "id": 5,
+            "width": 155,
+            "x": 471,
+            "y": 986
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 303,
+            "id": 6,
+            "width": 303,
+            "x": 1047,
+            "y": 1448
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 275,
+            "id": 7,
+            "width": 275,
+            "x": 1439,
+            "y": 1055
+        }
+    ],
+    "sample_id": 15403
+}

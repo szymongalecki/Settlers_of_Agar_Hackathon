@@ -1,0 +1,123 @@
+{
+    "background": "lower-resolution",
+    "classes": [
+        "P.aeruginosa",
+        "S.aureus"
+    ],
+    "colonies_number": 11,
+    "labels": [
+        {
+            "class": "S.aureus",
+            "height": 47,
+            "id": 1,
+            "width": 47,
+            "x": 1065,
+            "y": 1409
+        },
+        {
+            "class": "S.aureus",
+            "height": 42,
+            "id": 2,
+            "width": 42,
+            "x": 1268,
+            "y": 1618
+        },
+        {
+            "class": "S.aureus",
+            "height": 51,
+            "id": 3,
+            "width": 51,
+            "x": 1093,
+            "y": 1679
+        },
+        {
+            "class": "S.aureus",
+            "height": 47,
+            "id": 4,
+            "width": 47,
+            "x": 1134,
+            "y": 1105
+        },
+        {
+            "class": "S.aureus",
+            "height": 42,
+            "id": 5,
+            "width": 42,
+            "x": 1182,
+            "y": 954
+        },
+        {
+            "class": "S.aureus",
+            "height": 47,
+            "id": 6,
+            "width": 47,
+            "x": 717,
+            "y": 317
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 128,
+            "id": 7,
+            "width": 128,
+            "x": 877,
+            "y": 359
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 155,
+            "id": 8,
+            "width": 155,
+            "x": 740,
+            "y": 488
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 275,
+            "id": 9,
+            "width": 275,
+            "x": 461,
+            "y": 608
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 155,
+            "id": 10,
+            "width": 155,
+            "x": 1213,
+            "y": 1379
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 171,
+            "id": 11,
+            "width": 171,
+            "x": 1225,
+            "y": 497
+        },
+        {
+            "class": "Contamination",
+            "height": 125,
+            "id": 12,
+            "width": 125,
+            "x": 234,
+            "y": 1104
+        },
+        {
+            "class": "Contamination",
+            "height": 166,
+            "id": 13,
+            "width": 166,
+            "x": 787,
+            "y": 1440
+        },
+        {
+            "class": "Contamination",
+            "height": 697,
+            "id": 14,
+            "width": 697,
+            "x": 991,
+            "y": 1195
+        }
+    ],
+    "sample_id": 15442
+}

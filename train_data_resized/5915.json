@@ -1,0 +1,35 @@
+{
+    "background": "dark",
+    "classes": [
+        "E.coli",
+        "S.aureus"
+    ],
+    "colonies_number": 3,
+    "labels": [
+        {
+            "class": "S.aureus",
+            "height": 76,
+            "id": 1,
+            "width": 76,
+            "x": 685,
+            "y": 2306
+        },
+        {
+            "class": "E.coli",
+            "height": 367,
+            "id": 2,
+            "width": 367,
+            "x": 1731,
+            "y": 1510
+        },
+        {
+            "class": "E.coli",
+            "height": 367,
+            "id": 3,
+            "width": 367,
+            "x": 2287,
+            "y": 1559
+        }
+    ],
+    "sample_id": 5915
+}

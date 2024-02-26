@@ -1,0 +1,34 @@
+{
+    "background": "lower-resolution",
+    "classes": [
+        "E.coli"
+    ],
+    "colonies_number": 3,
+    "labels": [
+        {
+            "class": "E.coli",
+            "height": 171,
+            "id": 1,
+            "width": 171,
+            "x": 743,
+            "y": 1578
+        },
+        {
+            "class": "E.coli",
+            "height": 180,
+            "id": 2,
+            "width": 171,
+            "x": 1427,
+            "y": 1072
+        },
+        {
+            "class": "E.coli",
+            "height": 188,
+            "id": 3,
+            "width": 188,
+            "x": 1228,
+            "y": 921
+        }
+    ],
+    "sample_id": 16558
+}

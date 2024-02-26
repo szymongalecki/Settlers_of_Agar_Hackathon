@@ -1,0 +1,27 @@
+{
+    "background": "dark",
+    "classes": [
+        "P.aeruginosa",
+        "E.coli"
+    ],
+    "colonies_number": 2,
+    "labels": [
+        {
+            "class": "E.coli",
+            "height": 79,
+            "id": 1,
+            "width": 79,
+            "x": 2100,
+            "y": 754
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 228,
+            "id": 2,
+            "width": 228,
+            "x": 2136,
+            "y": 2289
+        }
+    ],
+    "sample_id": 4162
+}
